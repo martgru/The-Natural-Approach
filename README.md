@@ -1,5 +1,3 @@
-# The Natural Approach
-
 ## References
 
 1. Krashen, Stephen D., and Tracy D. Terrell. The Natural Approach: Language Acquisition in the Classroom, Alemany Press, 1983.
