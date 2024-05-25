@@ -30,7 +30,7 @@
 
 ### Books:
 
-- Lingua Latina Per se illustrata series  
+- Lingua Latina Per se illustrata series (Latin)
   [https://hackettpublishing.com/lingua-latina-per-se-illustrata-series](https://hackettpublishing.com/lingua-latina-per-se-illustrata-series)
-- Cultura classica Anient greek  
+- Cultura classica (Ancient Greek)  
   [https://sites.google.com/view/culturaclasicaediciones/home/lingua-graeca/libros?authuser=](https://sites.google.com/view/culturaclasicaediciones/home/lingua-graeca/libros?authuser=)
