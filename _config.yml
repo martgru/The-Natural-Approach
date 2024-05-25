@@ -4,3 +4,4 @@ description: >- #  ignore newlines until "baseurl:"
 
 include:
   - _includes/custom-header.html
+  - assets/css/custom.css
