@@ -6,9 +6,6 @@ description: >- #  ignore newlines until "baseurl:"
 plugins:
   - jekyll-include-cache
 
-include:
-  - assets/css/custom.css
-
 defaults:
   - scope:
       path: ""
