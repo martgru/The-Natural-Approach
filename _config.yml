@@ -10,9 +10,15 @@ include:
   - assets/css/custom.css
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
-      type: "defaults"
+      type: "posts"
     values:
-      css: '/assets/css/custom.css'
+      layout: "post"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+include:
+  - assets/css/custom.css
