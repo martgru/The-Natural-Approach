@@ -2,6 +2,17 @@ theme: jekyll-theme-cayman
 title: The Natural Approach
 description: >- #  ignore newlines until "baseurl:"
 
+# custom css
+plugins:
+  - jekyll-include-cache
+
 include:
-  - _includes/custom-header.html
   - assets/css/custom.css
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "defaults"
+    values:
+      css: '/assets/css/custom.css'
