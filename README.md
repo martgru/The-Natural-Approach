@@ -5,7 +5,7 @@
 1. Krashen, Stephen D., and Tracy D. Terrell. The Natural Approach: Language Acquisition in the Classroom, Alemany Press, 1983.
 2. Krashen, S. (2017). The case for comprehensible input. Language Magazine.[http://www.sdkrashen.com](http://www.sdkrashen.com)
 3. Smith, K., Mason, B. & Krashen S. (2021). Story-Listening and Guided Self-Selected Reading: Short-Term Results from Indonesia. Language Issues, 1(3), 1-14. [https://www.researchgate.net/publication/352492192_Story-Listening_and_Guided_Self-Selected_Reading_Short-Term_Results_from_Indonesia](https://www.researchgate.net/publication/352492192_Story-Listening_and_Guided_Self-Selected_Reading_Short-Term_Results_from_Indonesia)
-4. Namaziandost, E., Nasri, M. & Ziafar, M. Comparing the impacts of various inputs (I + 1 & I-1) on pre-intermediate EFL learners’ Reading comprehension and Reading motivation: the case of Ahvazi learners. Asian. J. Second. Foreign. Lang. Educ. 4, 13 (2019). [https://doi.org/10.1186/s40862-019-0079-1](https://doi.org/10.1186/s40862-019-0079-1)
+4. Mason, B., & Ae, N. (2023). 70 hours of comprehensible input = 286 hours of traditional instruction. [https://www.researchgate.net/publication/375910502](https://www.researchgate.net/publication/375910502)
 
 ### Stephen Krashen's website:
 
